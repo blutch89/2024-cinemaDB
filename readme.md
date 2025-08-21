@@ -1,5 +1,5 @@
 # Description
-API de gestion de films et séries favoris. La listes des films et séries est récupérée depuis l’API libre « The Movie Database (TMDB) ». Le projet est en cours de développement.
+API de gestion de films et séries favoris. La listes des films et séries est récupérée automatiquement en se connectant sur l’API « The Movie Database (TMDB) ». Mon API sert de lien entre TMDB et l’utilisateur pour qu’il puisse rechercher ou consulter des éléments et enregistrer ses favoris. Le projet est en cours de développement. 
 
 # Technologies
 * Java
